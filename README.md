@@ -1,1 +1,0 @@
-My proposed final project will be looking at Seattle-Tacoma International Airport's flight operations--the traffic and number of passengers each week. I will research how COVID-19 has impacted travel operations on both a local and national level by comparing two datasets related to airline departures and what time of year is best to travel through SeaTac. 
